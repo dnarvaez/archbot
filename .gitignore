@@ -4,3 +4,5 @@
 /public_html/
 /state.sqlite
 /templates/
+/*.log
+/*.pid
