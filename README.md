@@ -14,4 +14,10 @@ Start it
 
 # Slave
 
-See http://docs.buildbot.net/current/tutorial/firstrun.html#creating-a-slave
+Create the slave (replace name and password)
+
+    buildslave create-slave --umask=0022 slave localhost:9989 name password
+
+Start it
+
+    builslave start slave
