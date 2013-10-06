@@ -1,5 +1,5 @@
 {"slaves": {"alpha": {"password": "password",
-                      "architectures": ["i686", "x86_64"]},
+                      "architectures": ["i686", "x86_64"]}},
  "webPort": 8010,
  "repo": "http://github.com/dnarvaez/archsugar",
  "packages": ["icon-slicer",
