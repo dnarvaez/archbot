@@ -11,3 +11,7 @@ Create the master
 Start it
 
     buildbot start .
+
+# Slave
+
+See http://docs.buildbot.net/current/tutorial/firstrun.html#creating-a-slave
