@@ -1,5 +1,6 @@
 {"slaves": {"name": "pass"},
  "webPort": 8010,
+ "repo": "http://github.com/dnarvaez/archsugar",
  "config": {"slavePortnum": 9989,
             "title": "Arch Sugar",
             "titleURL": "http://github.com/dnarvaez/archsugar",
