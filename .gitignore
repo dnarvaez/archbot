@@ -1,1 +1,6 @@
 /config.json
+/buildbot.tac
+/master.cfg.sample
+/public_html/
+/state.sqlite
+/templates/
