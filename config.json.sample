@@ -1,0 +1,6 @@
+{"slaves": {"alpha-x86_64": "pass"},
+ "webPort": 8010,
+ "config": {"slavePortnum": 9989,
+            "title": "Sugar OS",
+            "titleURL": "http://github.com/dnarvaez/sugaros",
+            "buildbotURL": "http://146.185.144.82:8010/"}}
